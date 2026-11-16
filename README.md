@@ -8,9 +8,8 @@ This project analyses monthly rainfall data from five Kenyan counties: Nairobi, 
 
 Open the analysis notebook in Google Colab:
 
-[Open rainfall_analysis.ipynb in Google Colab](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/plp-da-a2-rainfall-advisory/blob/main/rainfall_analysis.ipynb)
+[Open rainfall_analysis.ipynb in Google Colab](https://colab.research.google.com/github/Charles-349/plp-da-a2-rainfall-advisory/blob/main/rainfall_analysis.ipynb)
 
-Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
 
 ## Planting Advisory
 
